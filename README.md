@@ -17,20 +17,22 @@
 
 </div>
 
-## <a name="about_me"> About me </a>
+## <a name="about_me"> **About me** </a>
 
-This might be the only CV you read of a dev who has written script for React, MongoDB and Graham Norton. I am a graduate of the mighty Makers Academy software development bootcamp but my background is working in the TV and Radio industry as a comedy writer and programme development producer.
+This might be the only CV you read of a dev who's written script for React, MongoDB and Graham Norton. I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is working in the TV and Radio industry as a comedy writer and programme development producer.
 
 I have written gags for many high-profile TV series, sketches for big name performers and have created original TV programmes, radio shows and podcasts. Wanting a new challenge, I am now applying my creative thinking, problem-solving and obesssion with syntax to software development.
 
- Sure, I've put 'Full Stack Software Developer' rather grandly at the top there :arrow_up:, and I have learned a **huge** amount during 16 weeks of bootcamp but I can't pretend to be a seasoned engineer. I can say, without any hesitation that I love coding, learning new skills and working in teams of smart people building machines out of words. 
+ Sure, I've put 'Full Stack Software Developer' rather grandly at the top there :arrow_up:, and I have learned a **huge** amount during 16 weeks of bootcamp but I can't pretend to be a seasoned engineer. I can say though, without any hesitation, that I love coding, learning new skills and working in teams of smart people building machines out of words. 
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+## **Projects**
+| Project | Description | Technologies |
+|---  |---  |---  |
+| [**Final Project**](https://github.com/sirdavy) | Our Makers final project. Built to....  | NodeJS, ExpressJS, React, HTML, CSS, Spotify Web API, Google Natural Language Sentiment API and Google Cloud Vision API |
+| [**Acebook**](https://github.com/sirdavy/acebook-team-water) | During this group project, we were asked to create a Facebook clone. During this project we focused on agile working styles and how they fit into our teams as well as understanding how to build our first React project. | NodeJS, React, HTML, CSS, ExpressJS, MongoDB, Cypress, Jest |
+| [**Bank Tech Test**](https://github.com/sirdavy/bank-tech-test) | This was a practice tech test during Week 10 of the Makers course where we had to create a virtual bank. <br> A key focus during this project was to work on my planning and documentation of the project. | Ruby |
+| [**Gilded Rose Tech Test**](https://github.com/sirdavy/gilded-rose-tech-test-ruby) | This is my attempt at the Gilded Rose kata set by Makers Academy; a tech test commonly used to test a dev's ability to read, refactor and extend legacy code. The specifications are here.| Ruby |
+----
 
 ## Work Experience
 
