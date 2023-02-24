@@ -1,6 +1,29 @@
-## David Scott
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+<div align="center">
+
+# David Scott #
+
+
+<a href="http://www.crockattandscott.co.uk/"><img src="images/www.png" width="95" alt="My website" align="left"></a>
+<a href="https://uk.linkedin.com/in/david-scott-752332137"><img src="images/linkedin.png" width="110" alt="LinkedIn"></a>
+<a href="https://medium.com/@sirdavy"><img src="images/Monogram.svg" width="95" alt="Medium" align="right"></a>
+<a href="https://www.codewars.com/users/sirdavy"><img src="images/codewars.png" width="100" alt="Codewars"></a>
+
+#
+### TV Comedy Writer turned Full Stack Software Developer <br>
+###### *No, seriously.* <br>
+[About me](#about_me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+
+</div>
+
+## <a name="about_me"> About me </a>
+
+This might be the only CV you read of a dev who has written script for React, MongoDB and Graham Norton. I am a graduate of the mighty Makers Academy software development bootcamp but my background is working in the TV and Radio industry as a comedy writer and programme development producer.
+
+I have written gags for many high-profile TV series, sketches for big name performers and have created original TV programmes, radio shows and podcasts. Wanting a new challenge, I am now applying my creative thinking, problem-solving and obesssion with syntax to software development.
+
+ Sure, I've put 'Full Stack Software Developer' rather grandly at the top there :arrow_up:, and I have learned a **huge** amount during 16 weeks of bootcamp but I can't pretend to be a seasoned engineer. I can say, without any hesitation that I love coding, learning new skills and working in teams of smart people building machines out of words. 
 
 ## Projects
 
