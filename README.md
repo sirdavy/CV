@@ -12,7 +12,7 @@
 
 ### [About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-</div><br>
+</div>
 
 ## 🔎 **About me**
 
