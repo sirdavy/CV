@@ -16,9 +16,9 @@
 
 ## 🔎 **About me**
 
-This might be the only CV you read of a dev who's written script for React, MongoDB and Graham Norton. I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is working in the TV and Radio industry as a comedy writer and programme development producer.
+This might be the only CV you read from a dev who's written script for React, MongoDB and Graham Norton. I am a recent graduate of the mighty Makers Academy software development bootcamp but my background is working in the TV and Radio industry as a comedy writer and programme development producer.
 
-I have written gags for many high-profile TV series, sketches for big name performers and have created original TV programmes, radio shows and podcasts. Wanting a new challenge, I am now applying my creative thinking, problem-solving and obesssion with syntax to software development.
+I have written gags for many high-profile TV series, sketches for big name performers and have created original TV programmes, radio shows and podcasts. Wanting a new challenge, I am now applying my creative thinking, problem-solving and obsession with syntax to software development.
 
  I've put 'Full Stack Software Developer' rather grandly at the top there ⬆️ and, sure, I have learned a **huge** amount during 16 weeks of bootcamp but I can't pretend to be a seasoned engineer. I can say though, without any hesitation, that I love coding, learning new skills and working in teams of smart people building machines out of words. 
 
@@ -42,7 +42,7 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 * Pitching ideas to channel commissioners, articulating complex ideas in a compelling and persuasive manner.
 * Collaborating with other production company's creative teams and developing ideas in partnership.
 * Scripting commercials for big brands including Ford, Fiat and Barclaycard.
-* Working as part of of a production team on many shows in both office and studio.
+* Working as part of a production team on many shows in both office and studio.
 
 ### <span style="color: #1589FF;">**Science Museum, London**</span> (Jan 2022 to Jan 2023) <br> 
 *Archive Assistant (voluntary role)*
@@ -56,15 +56,15 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 * This involved general admin as a runner; searching video archives, finding contributors as a researcher; setting up VTs and contributing to creative meetings as a producer.
 
 ## ✨ Skills
-* **Creative Thinker** - *That's half an hour of my life I'll never get back.* It's a well-used phrase, and it went through my head right after being cut off while on hold to the bank. But it made me think; what if you could get a temporal refund on all the time-sucks in your life? Jump to a year later, and it is now the premise of a podcast I've created for Audible. Between that first thought and the recording, however, there has been a lot of creative heavy-lifting - fleshing out the format, writing up and designing a pitch deck, making changes after feedback. Keeping you mind open to ideas is one thing but getting down to the nitty-gritty creative work of writing and rewriting is something I'm very comfortable with. 
+* **Creative Thinker** - *That's half an hour of my life I'll never get back.* It's a well-worn phrase, and it went through my head right after being cut off while on hold to the bank. But it made me think; what if you could get a temporal refund on all the time-sucks in your life? Jump to a year later, and it is now the premise of a podcast I've created for Audible. Between that first thought and the recording, however, there has been a lot of creative heavy-lifting - fleshing out the format, writing up and designing a pitch deck, making changes after feedback. Keeping you mind open to ideas is one thing but getting down to the nitty-gritty creative work of writing and rewriting is something I'm very comfortable with. 
 
 * **Communicator** - I write scripts and devise television show formats for a living but I also have to sell, or pitch, these ideas face-to-face with producers and commissioners. With this experience I feel confident in saying that not only do I have good written and verbal skills I also know how to read the room and articulate often complex ideas in a persuasive manner. 
 
-* **Teamwork** - There's a famous tenet in improv comedy, that when a performer begins building a premise on stage their fellow perfomers should react with a 'yes, and' response - 'yes' meaning'I'm going to run with this' and the 'and' adds to that idea. Whenever I've worked on a show in a writers' room or with a development team from another production company it can be a bit of a creative scrum, lots of thoughts get pitched in and often there'll be ideas which seem to conflict logically with the project. It's in these situations I've always tried to adopt a 'yes, and' mindset. It doesn't mean, at the end of a session, each idea is equal in strength, but you don't know how strong an idea might be until you've given it some 'yes, and' as a group.
+* **Teamwork** - There's a famous tenet in improv comedy, that when a performer begins building a premise on stage their fellow performers should react with a 'yes, and' response - 'yes' meaning 'I'm going to run with this' and the 'and' adds to that idea. Whenever I've worked on a show in a writers' room or with a development team from another production company it can be a bit of a creative scrum, lots of thoughts get pitched in and often there'll be ideas which seem to conflict logically with the project. It's in these situations I've always tried to adopt a 'yes, and' mindset. It doesn't mean, at the end of a session, each idea is equal in strength, but you don't know how strong an idea might be until you've given it some 'yes, and' as a group.
 
 * **Attention To Detail** - Part of working as a writer is problem solving, being able to look at an idea analytically and figure out why it’s not working or how it can be improved. I have written scripts, rewritten them and rewritten them, that is the process - constant improvement. It builds a habit of meticulousness and attention to detail; a word in the wrong place and a joke loses its punch, a typo in some dialogue and a scene doesn’t make sense.
   
-* **Working To A Brief** - It's often the case I'll turn up in the morning to work on a new show, be given a brief by the producer and be expected to hand over many pages of material by the end of the day. It's a high pressure stuff. Briefs for shows, however, can range from very detailed outlines to vague, hand-wavy stuff, and for each case, in order to deliver work that's on target, I am very experienced at asking the right questions, taking the temperature, and getting a feel for what a client really wants.
+* **Working To A Brief** - It's often the case I'll turn up in the morning to work on a new show, be given a brief by the producer and be expected to hand over many pages of material by the end of the day. It's high-pressure stuff. Briefs for shows, however, can range from very detailed outlines to vague, hand-wavy thoughts, and for each case, in order to deliver work that's on target, I am very experienced at asking the right questions, taking the temperature, and getting a feel for what a client really wants.
 
 ## 🎒 Education
 
@@ -73,8 +73,9 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 - Object Oriented Design (Ruby, JavaScript, HTML, React, Node.js)
 - Test Driven Development (RSpec, Jest)
 - Pairing Programming 
-- Agile working practices
+- Agile and Sprint working practices
 - SQL, PostgreSQL, MongoDB
+- Version control Git, GitHub
 
 #### **University of Surrey** (Sept 1993 to Jun 1997)
 - BA (Hons) History 2:1
@@ -85,7 +86,7 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 
 
 ## Interests
-*  📝 **Writing:** Still have a hand in ongoing projects including a podcast with a well-known comedian being released  Summer 2023.
+*  📝 **Writing:** I still have a hand in ongoing projects including a podcast with a well-known comedian being released Summer 2023.
 * 📻 **Hacking Electronics:** Making guitar pedals and amplifiers out of vintage radios.
 * 🎸 **Guitar:** Making music with friends.
 * 🌑 **Sport:** Squash, running, swimming.
