@@ -1,12 +1,13 @@
 
-<h1 align="center">David Scott</h1><div align="center">
+<h1 align="center">David Scott</h1>
+
+<div align="center">
 
 🌐&nbsp;[Website](http://www.crockattandscott.co.uk/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗&nbsp;[LinkedIn](https://uk.linkedin.com/in/david-scott-752332137)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥋&nbsp;[Codewars](https://www.codewars.com/users/sirdavy)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥️&nbsp;[Blog](https://medium.com/@sirdavy)
 
 </div>
 
-# <h2 style="text-align: center;">TV Comedy Writer turned Full Stack Software Developer</h2>
-
+## <div align="center">TV Comedy Writer turned Full Stack Software Developer</div>
 <div align="center">
 
 ### [About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
@@ -55,7 +56,7 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 * This involved general admin as a runner; searching video archives, finding contributors as a researcher; setting up VTs and contributing to creative meetings as a producer.
 
 ## ✨ Skills
-* **Creative Thinker** - *That's half an hour of my life I'll never get back.* It's a well-used phrase, and it went through my head right after being cut off while on hold to the bank. But it made me think; what if you could get a temporal refund on all the time-sucks in your life? Jump to a year later, and it is now the premise of a podcast I've created for Audible. Btween that first thought and the recording, however, there has been a lot of creative heavy-lifting - fleshing out the format, writing up and designing a pitch deck, making changes after feedback. Keeping you mind open to ideas is one thing but getting down to the nitty-gritty creative work of writing and rewriting is something I'm very comfortable with. 
+* **Creative Thinker** - *That's half an hour of my life I'll never get back.* It's a well-used phrase, and it went through my head right after being cut off while on hold to the bank. But it made me think; what if you could get a temporal refund on all the time-sucks in your life? Jump to a year later, and it is now the premise of a podcast I've created for Audible. Between that first thought and the recording, however, there has been a lot of creative heavy-lifting - fleshing out the format, writing up and designing a pitch deck, making changes after feedback. Keeping you mind open to ideas is one thing but getting down to the nitty-gritty creative work of writing and rewriting is something I'm very comfortable with. 
 
 * **Communicator** - I write scripts and devise television show formats for a living but I also have to sell, or pitch, these ideas face-to-face with producers and commissioners. With this experience I feel confident in saying that not only do I have good written and verbal skills I also know how to read the room and articulate often complex ideas in a persuasive manner. 
 
