@@ -1,5 +1,5 @@
 ![banner](https://github.com/sirdavy/CV/blob/main/download1.gif)
-<h1 align="center">David Scott</h1>
+<!-- <h1 align="center">David Scott</h1> -->
 
 <div align="center">
 
