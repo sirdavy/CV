@@ -40,7 +40,7 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 * Creating successful radio, television and podcast formats including *Genius* (Radio 4 & BBC2) *Would You Rather with Graham Norton* (BBC America), *Delete, Delete, Delete* (BBC NI) and *The Imitation Game* (ITV).
 * Developing TV formats in partnership with creative teams at outside production companies.
 * Pitching ideas to channel commissioners, articulating complex ideas in a compelling and persuasive manner.
-* Collaborating with other production company's creative teams and developing ideas in partnership.
+* Collaborating with other production companies' creative teams and developing ideas in partnership.
 * Scripting commercials for big brands including Ford, Fiat and Barclaycard.
 * Working as part of a production team on many shows in both office and studio.
 
