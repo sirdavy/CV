@@ -25,7 +25,7 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 ## 💻 **Projects**
 | Project | Description | Technologies |
 |---  |---  |---  |
-| [**Final Project**](https://github.com/sirdavy) | Our Makers final project. Built to....  | NodeJS, ExpressJS, React, HTML, CSS |
+| [**Solved**](https://github.com/orhankhanbayov/Solved-Arrogate#readme) | Our Makers final project. A live-action treasure-hunting game that leads you on an exciting tour of a city neighbourhood.  | React Native, MongoDB, Node.js, Xcode, Android Studio, Google Landmark API and geolocation |
 | [**Acebook**](https://github.com/sirdavy/acebook-team-water) | During this group project, we were asked to create a Facebook clone. Throughout its course we focused on an Agile working style, using Trello, daily stand-ups and regular retros to guide this MERN project. | NodeJS, React, HTML, CSS, ExpressJS, MongoDB, Cypress, Jest |
 | [**Bank Tech Test**](https://github.com/sirdavy/bank-tech-test) | This was a practice tech test during Week 10 of the Makers course where we had to create a virtual bank. <br> A key focus during this project was to work on my planning and documentation of the project. | Ruby |
 | [**Gilded Rose Tech Test**](https://github.com/sirdavy/gilded-rose-tech-test-ruby) | This is my attempt at the Gilded Rose kata set by Makers Academy; a tech test commonly used to test a dev's ability to read, refactor and extend legacy code. The specifications are here.| Ruby |
@@ -33,7 +33,7 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 
 
 ## 🗒️ Work Experience
-### <span style="color: #1589FF;">**Super Tuesday TV**</span> (Jan 2003 to Nov 2022) <br> 
+### <span style="color: #1589FF;">**Super Tuesday TV**</span> (Jan 2012 to Nov 2022) <br> 
 *Writer & Producer*
 * Freelance scriptwriting for narrative comedy, sketch shows and entertainment series with credits including *Would I Lie To You, Psychobitches, Urban Myths, Harry & Paul, Armstrong & Miller, The Weakest Link, Jon & Lucy's Odd Couples, Celebrity Juice, Horrible Histories, Big Train, Mitchell & Webb*.
 * Freelance gag-writing for performers with voices as different as Graham Norton, Anne Robinson, Alexander Armstrong, John Bishop and Matt Lucas.
@@ -50,7 +50,7 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 * Learned how to handle 150-year-old documents and catalogue the collection according to strict archival standards.
 * Helped present documents from the RCTI collection at an end of project conference.
 
-### <span style="color: #1589FF;">**Planet 24, Hat Trick, TalkBack, Open Mike**</span> (Sept 97 to Dec 2002) <br> 
+### <span style="color: #1589FF;">**Planet 24, Hat Trick, TalkBack, Open Mike**</span> (pre-2012) <br> 
 *Various freelance roles*
 * Assisting in the creation and broadcast of many TV entertainment shows including *The Big Breakfast, Never Mind The Buzzcocks, Room 101, Jack Dee’s Happy Hour* and many more. 
 * This involved general admin as a runner; searching video archives, finding contributors as a researcher; setting up VTs and contributing to creative meetings as a producer.
@@ -77,11 +77,11 @@ I have written gags for many high-profile TV series, sketches for big name perfo
 - SQL, PostgreSQL, MongoDB
 - Version control Git, GitHub
 
-#### **University of Surrey** (Sept 1993 to Jun 1997)
+#### **University of Surrey** 
 - BA (Hons) History 2:1
 
 
-#### **Wilmington Grammar School** (Sept 1986 to Jun 1993)
+#### **Wilmington Grammar School** 
 - GCSEs & A Levels
 
 
